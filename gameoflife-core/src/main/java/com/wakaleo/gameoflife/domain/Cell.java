@@ -1,7 +1,7 @@
 package com.wakaleo.gameoflife.domain;
 
  /**
- * Wakaleo Consulting - John Ferguson Smart
+ * Wakaleo Consulting - John Ferguson Smart 123
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
  * Cell.java
@@ -9,7 +9,7 @@ package com.wakaleo.gameoflife.domain;
  */
 public enum Cell {
 	// Symbols to represent cell status
-    LIVE_CELL("*"), DEAD_CELL(".");
+    LIVE_CELL("+"), DEAD_CELL(".");
 
     private String symbol;
 
